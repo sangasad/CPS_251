@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="btnCalculate">calculate tip</string>
+    <string name="txtBillTotal">Enter bill amount</string>
+    <string name="txtMaxTip">TextView</string>
+    <string name="txtMidTip">TextView</string>
+    <string name="txtMinTip">TextView</string>
+    <string name="txtTitle">The tips are as follows:</string>
+</resources>
