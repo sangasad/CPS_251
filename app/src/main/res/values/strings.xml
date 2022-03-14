@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AddName SaveData</string>
+    <string name="txtOut" >No names to display</string>
+    <string name="txtInput">Enter Name</string>
+    <string name="btnAdd">Add Name</string>
+    <string name="hintTxt">No names entered</string>
+    <string name="txtHint">No names to display</string>
+</resources>
