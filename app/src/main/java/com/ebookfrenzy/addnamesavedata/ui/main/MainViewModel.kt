@@ -12,24 +12,6 @@ class MainViewModel(private val savedStateHandle: SavedStateHandle) : ViewModel(
 
     private var name = ""
     private var txtInput = ""
-    var myName:MutableLiveData<String> = MutableLiveData()
-    var yourName:MutableLiveData<String> = MutableLiveData()
-
-    /*
-    fun receiveName()
-    {
-        myName.let {
-            if(!it.value.equals(""))
-            {
-                yourName.value = it.value.toString()
-            }
-            else
-            {
-                yourName.value = "No names entered"
-            }
-        }
-    }*/
-
 
     fun setName(value: String) {
         this.txtInput = value

@@ -56,7 +56,7 @@ class MainFragment : Fragment() {
                 yourName = viewModel.getName()
                 binding.txtInput.text.clear()
                 binding.txtOut.append(myName + "\n" + yourName)
-                //binding.txtOut.text = myName
+
 
                 binding.txtInput.text.clear()
             }
